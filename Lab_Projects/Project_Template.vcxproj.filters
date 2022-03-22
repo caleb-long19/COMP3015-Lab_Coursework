@@ -42,6 +42,15 @@
     <ClCompile Include="scenebasic_uniform.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\caleb\Downloads\COMP3015\Lab 2\Lab 2 Files\Additional files\teapot.cpp">
+      <Filter>helper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\caleb\Downloads\COMP3015\Lab 2\Lab 2 Files\Additional files\torus.cpp">
+      <Filter>helper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\caleb\Downloads\COMP3015\Lab 2\Lab 2 Files\Additional files\trianglemesh.cpp">
+      <Filter>helper</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="shader\basic_uniform.frag">
@@ -72,6 +81,21 @@
     </ClInclude>
     <ClInclude Include="scenebasic_uniform.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\caleb\Downloads\COMP3015\Lab 2\Lab 2 Files\Additional files\drawable.h">
+      <Filter>helper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\caleb\Downloads\COMP3015\Lab 2\Lab 2 Files\Additional files\teapot.h">
+      <Filter>helper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\caleb\Downloads\COMP3015\Lab 2\Lab 2 Files\Additional files\teapotdata.h">
+      <Filter>helper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\caleb\Downloads\COMP3015\Lab 2\Lab 2 Files\Additional files\torus.h">
+      <Filter>helper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\caleb\Downloads\COMP3015\Lab 2\Lab 2 Files\Additional files\trianglemesh.h">
+      <Filter>helper</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

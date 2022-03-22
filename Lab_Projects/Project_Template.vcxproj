@@ -151,6 +151,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C:\Users\caleb\Downloads\COMP3015\Lab 2\Lab 2 Files\Additional files\teapot.cpp" />
+    <ClCompile Include="C:\Users\caleb\Downloads\COMP3015\Lab 2\Lab 2 Files\Additional files\torus.cpp" />
+    <ClCompile Include="C:\Users\caleb\Downloads\COMP3015\Lab 2\Lab 2 Files\Additional files\trianglemesh.cpp" />
     <ClCompile Include="glad.c" />
     <ClCompile Include="helper\glslprogram.cpp" />
     <ClCompile Include="helper\glutils.cpp" />
@@ -162,6 +165,11 @@
     <None Include="shader\basic_uniform.vert" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="C:\Users\caleb\Downloads\COMP3015\Lab 2\Lab 2 Files\Additional files\drawable.h" />
+    <ClInclude Include="C:\Users\caleb\Downloads\COMP3015\Lab 2\Lab 2 Files\Additional files\teapot.h" />
+    <ClInclude Include="C:\Users\caleb\Downloads\COMP3015\Lab 2\Lab 2 Files\Additional files\teapotdata.h" />
+    <ClInclude Include="C:\Users\caleb\Downloads\COMP3015\Lab 2\Lab 2 Files\Additional files\torus.h" />
+    <ClInclude Include="C:\Users\caleb\Downloads\COMP3015\Lab 2\Lab 2 Files\Additional files\trianglemesh.h" />
     <ClInclude Include="helper\glslprogram.h" />
     <ClInclude Include="helper\glutils.h" />
     <ClInclude Include="helper\scene.h" />
